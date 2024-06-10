@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2024-06-10T04:40:55.478Z</updated>
+  <updated>2024-06-10T04:55:48.219Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2024/06/10/Web-2024-06-10-bower/"/>
     <id>http://yoursite.com/2024/06/10/Web-2024-06-10-bower/</id>
     <published>2024-06-10T04:11:09.000Z</published>
-    <updated>2024-06-10T04:40:55.478Z</updated>
+    <updated>2024-06-10T04:55:48.219Z</updated>
     
     <summary type="html">
     
@@ -46,11 +46,11 @@
   </entry>
   
   <entry>
-    <title>maven helloworld</title>
-    <link href="http://yoursite.com/2019/11/01/Maven-maven/"/>
-    <id>http://yoursite.com/2019/11/01/Maven-maven/</id>
+    <title>http helloworld</title>
+    <link href="http://yoursite.com/2019/11/01/HTTP%E5%8D%8F%E8%AE%AE-2020-01-12-http/"/>
+    <id>http://yoursite.com/2019/11/01/HTTP%E5%8D%8F%E8%AE%AE-2020-01-12-http/</id>
     <published>2019-11-01T07:11:09.000Z</published>
-    <updated>2019-12-24T10:00:05.881Z</updated>
+    <updated>2020-02-21T02:49:18.732Z</updated>
     
     <summary type="html">
     
@@ -65,10 +65,10 @@
     </summary>
     
     
-      <category term="Maven" scheme="http://yoursite.com/categories/Maven/"/>
+      <category term="HTTP协议" scheme="http://yoursite.com/categories/HTTP%E5%8D%8F%E8%AE%AE/"/>
     
     
-      <category term="maven" scheme="http://yoursite.com/tags/maven/"/>
+      <category term="http" scheme="http://yoursite.com/tags/http/"/>
     
   </entry>
   
@@ -100,11 +100,11 @@
   </entry>
   
   <entry>
-    <title>http helloworld</title>
-    <link href="http://yoursite.com/2019/11/01/HTTP%E5%8D%8F%E8%AE%AE-2020-01-12-http/"/>
-    <id>http://yoursite.com/2019/11/01/HTTP%E5%8D%8F%E8%AE%AE-2020-01-12-http/</id>
+    <title>maven helloworld</title>
+    <link href="http://yoursite.com/2019/11/01/Maven-maven/"/>
+    <id>http://yoursite.com/2019/11/01/Maven-maven/</id>
     <published>2019-11-01T07:11:09.000Z</published>
-    <updated>2020-02-21T02:49:18.732Z</updated>
+    <updated>2019-12-24T10:00:05.881Z</updated>
     
     <summary type="html">
     
@@ -119,10 +119,10 @@
     </summary>
     
     
-      <category term="HTTP协议" scheme="http://yoursite.com/categories/HTTP%E5%8D%8F%E8%AE%AE/"/>
+      <category term="Maven" scheme="http://yoursite.com/categories/Maven/"/>
     
     
-      <category term="http" scheme="http://yoursite.com/tags/http/"/>
+      <category term="maven" scheme="http://yoursite.com/tags/maven/"/>
     
   </entry>
   
