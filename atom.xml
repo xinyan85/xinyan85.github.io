@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>鑫炎的博客</title>
+  <icon>xinyan85.github.io/icon.png</icon>
+  <subtitle>凡事先干起来再说</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="xinyan85.github.io/"/>
+  <updated>2019-12-27T07:54:44.669Z</updated>
+  <id>xinyan85.github.io/</id>
+  
+  <author>
+    <name>Xin Yan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="xinyan85.github.io/2024/06/10/Web-2019-12-27-bower/"/>
+    <id>xinyan85.github.io/2024/06/10/Web-2019-12-27-bower/</id>
+    <published>2024-06-10T02:05:09.151Z</published>
+    <updated>2019-12-27T07:54:44.669Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="Web" scheme="xinyan85.github.io/categories/Web/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>git helloworld</title>
+    <link href="xinyan85.github.io/2019/11/01/Git-git/"/>
+    <id>xinyan85.github.io/2019/11/01/Git-git/</id>
+    <published>2019-11-01T07:11:09.000Z</published>
+    <updated>2019-12-24T09:57:49.499Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Git" scheme="xinyan85.github.io/categories/Git/"/>
+    
+    
+      <category term="git" scheme="xinyan85.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>http helloworld</title>
+    <link href="xinyan85.github.io/2019/11/01/HTTP%E5%8D%8F%E8%AE%AE-2020-01-12-http/"/>
+    <id>xinyan85.github.io/2019/11/01/HTTP%E5%8D%8F%E8%AE%AE-2020-01-12-http/</id>
+    <published>2019-11-01T07:11:09.000Z</published>
+    <updated>2020-02-21T02:49:18.732Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="HTTP协议" scheme="xinyan85.github.io/categories/HTTP%E5%8D%8F%E8%AE%AE/"/>
+    
+    
+      <category term="http" scheme="xinyan85.github.io/tags/http/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java Hello World</title>
+    <link href="xinyan85.github.io/2019/11/01/javaSE-2019-12-24-javase/"/>
+    <id>xinyan85.github.io/2019/11/01/javaSE-2019-12-24-javase/</id>
+    <published>2019-11-01T07:11:09.000Z</published>
+    <updated>2019-12-24T09:40:19.686Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="javaSE" scheme="xinyan85.github.io/categories/javaSE/"/>
+    
+    
+      <category term="测试" scheme="xinyan85.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="java hello world" scheme="xinyan85.github.io/tags/java-hello-world/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>maven helloworld</title>
+    <link href="xinyan85.github.io/2019/11/01/Maven-maven/"/>
+    <id>xinyan85.github.io/2019/11/01/Maven-maven/</id>
+    <published>2019-11-01T07:11:09.000Z</published>
+    <updated>2019-12-24T10:00:05.881Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Maven" scheme="xinyan85.github.io/categories/Maven/"/>
+    
+    
+      <category term="maven" scheme="xinyan85.github.io/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java Hello World</title>
+    <link href="xinyan85.github.io/2019/11/01/javaEE-2019-12-24-javaee/"/>
+    <id>xinyan85.github.io/2019/11/01/javaEE-2019-12-24-javaee/</id>
+    <published>2019-11-01T07:11:09.000Z</published>
+    <updated>2019-12-24T09:40:09.946Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="javaEE" scheme="xinyan85.github.io/categories/javaEE/"/>
+    
+    
+      <category term="测试" scheme="xinyan85.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="java hello world" scheme="xinyan85.github.io/tags/java-hello-world/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>认知偏见</title>
+    <link href="xinyan85.github.io/2019/11/01/read-2020-01-12-%E8%AE%A4%E7%9F%A5%E5%81%8F%E8%A7%81/"/>
+    <id>xinyan85.github.io/2019/11/01/read-2020-01-12-%E8%AE%A4%E7%9F%A5%E5%81%8F%E8%A7%81/</id>
+    <published>2019-11-01T07:11:09.000Z</published>
+    <updated>2020-01-12T10:12:30.534Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;《程序员思维修炼》&quot;&gt;&lt;a href=&quot;#《程序员思维修炼》&quot; class=&quot;headerlink&quot; title=&quot;《程序员思维修炼》&quot;&gt;&lt;/a&gt;《程序员思维修炼》&lt;/h1&gt;&lt;h1 id=&quot;《情报分析心理学》&quot;&gt;&lt;a href=&quot;#《情报分析心理学》&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="read" scheme="xinyan85.github.io/categories/read/"/>
+    
+    
+      <category term="思维" scheme="xinyan85.github.io/tags/%E6%80%9D%E7%BB%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java Hello World</title>
+    <link href="xinyan85.github.io/2019/11/01/javaSE-springs-2019-12-24-springhello/"/>
+    <id>xinyan85.github.io/2019/11/01/javaSE-springs-2019-12-24-springhello/</id>
+    <published>2019-11-01T07:11:09.000Z</published>
+    <updated>2019-12-24T09:41:01.108Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="javaSE" scheme="xinyan85.github.io/categories/javaSE/"/>
+    
+      <category term="springs" scheme="xinyan85.github.io/categories/javaSE/springs/"/>
+    
+    
+      <category term="测试" scheme="xinyan85.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java Hello World</title>
+    <link href="xinyan85.github.io/2019/11/01/javaSE-spring2-2019-24-javaspring/"/>
+    <id>xinyan85.github.io/2019/11/01/javaSE-spring2-2019-24-javaspring/</id>
+    <published>2019-11-01T07:11:09.000Z</published>
+    <updated>2019-12-24T09:42:34.680Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="javaSE" scheme="xinyan85.github.io/categories/javaSE/"/>
+    
+      <category term="spring2" scheme="xinyan85.github.io/categories/javaSE/spring2/"/>
+    
+    
+      <category term="测试" scheme="xinyan85.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>spring Hello World</title>
+    <link href="xinyan85.github.io/2019/11/01/javaEE-spring-2019-12-24-spring/"/>
+    <id>xinyan85.github.io/2019/11/01/javaEE-spring-2019-12-24-spring/</id>
+    <published>2019-11-01T07:11:09.000Z</published>
+    <updated>2019-12-24T09:22:01.431Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="javaEE" scheme="xinyan85.github.io/categories/javaEE/"/>
+    
+      <category term="spring" scheme="xinyan85.github.io/categories/javaEE/spring/"/>
+    
+    
+      <category term="springs" scheme="xinyan85.github.io/tags/springs/"/>
+    
+  </entry>
+  
+</feed>
